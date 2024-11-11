@@ -12,12 +12,9 @@ To perform key exchange using the Elliptic Curve Cryptography (ECC) method.
 
 3.Exchange public keys. Compute the shared secret: shared_secret = private_key public_key_received.
 
-
+## PROGRAM:
 #### Name: SENTHAMIL SELVAN G
 #### REG_NO: 212222230139
-
-
-## PROGRAM:
 ```
 #include <stdio.h>
 
